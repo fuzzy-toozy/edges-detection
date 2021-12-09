@@ -5,10 +5,7 @@ import sys
 import math
 import os
 import json
-import numpy
 import screeninfo
-import matplotlib.pyplot as plt
-from functools import partial
 
 
 class Edges:
